@@ -9,6 +9,7 @@
 </head>
 <body>
 	hello.jsp
+	
 	currentTime : <%=new Date() %>
 </body>
 </html>
